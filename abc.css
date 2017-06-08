@@ -9,10 +9,8 @@ div{
 	text-align: center;
 }
 p.example1 { font-family:sans-serif; 
-	font-size:5.0em;
-	}
-p.suzu img {max-width: 1000px;
-            min-width:  500px;}
-p.suzu img {
-  width: 100%;
-  }
+     font-size:5.0em;
+           }
+p.suzu img {max-width:1000px;
+            min-width:500px;}
+p.suzu img {width: 100%;}
