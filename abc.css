@@ -9,3 +9,7 @@ div{
 	text-align: center;
 }
 p.example1 { font-family:sans-serif; }
+img {
+  max-width: 100%;
+  height: auto;
+  }
