@@ -1,6 +1,6 @@
 @charset "UTF-8";
 h1 {
-	font-size: 5.0em;
+	font-size: 2.5em;
 	text-align: center;
 	}
 
@@ -10,5 +10,5 @@ div{
 }
 
 p.example1 { font-family:sans-serif; 
-	font-size:5.0em;
+	font-size:2.5em;
            }
